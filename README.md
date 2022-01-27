@@ -65,7 +65,7 @@ Ah, parfait, on est large alors :-)
 1. Déposer/deployer grace à un entrepot GIT+myBinder 
 
 ### Maquette de l'UI
-<img src="maquette.svg"> 
+<img src="https://imgsrc.cineserie.com/2021/02/que-devient-rowan-atkinson-mr-bean-4.jpg?ver=1"> 
 
 
 ## Projet à réaliser 
