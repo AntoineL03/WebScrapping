@@ -80,9 +80,9 @@ Les projets réalisés doivent être déposées sous forme de dépôt GitHub. Le
 Le dépôt Git de ce cours doit servir de modèle de structuration de données et codes. Le readme.md devra contenir un lien pour le lancement de l'application via myBinder (en mode notebook et en mode voilà).
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FAntoineL03%2FWebScrapping/HEAD)
 
-[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.huma-num.fr%2Fmnauge%2Fcnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fprenom_nom_App.ipynb)
+[Launch Voilà](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FAntoineL03%2FWebScrapping/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fantoine_lepercq_App.ipynb)
 
 
 
