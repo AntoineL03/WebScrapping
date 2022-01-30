@@ -1,4 +1,4 @@
-USSI39 - Analyse de données non numériques
+# USSI39 - Analyse de données non numériques
 
 Antoine LEPERCQ, CNAMM 2022
 
@@ -8,6 +8,7 @@ Librosa semble etre capricieux sur mybinder, surtout quand on lance en mode voil
 
 Voici à quoi ressemble la sortie généré par mon code :
 
+<img src="Capture2.JPG">
 
 Liens :
 
