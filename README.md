@@ -1,6 +1,6 @@
 # USSI39 - Analyse de données non numériques
 
-Antoine LEPERCQ, CNAMM 2022
+> Antoine LEPERCQ, CNAM 2022
 
 Vous trouverez, ci-joint, toutes les ressources du projet ainsi que les 3 codes demandés dans le dossier notebook.
 
